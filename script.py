@@ -1,6 +1,2 @@
-list = []
-for i in range(10):
-        list.append(i)
-
+list=[i for i in range(10)]
 print(list)
-
